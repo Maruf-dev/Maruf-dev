@@ -3,10 +3,9 @@
 
 
 - 👋 Hi, I’m @Maruf-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in WEB3
+- 🌱 I’m currently learning TS
+- 📫 How to reach me https://t.me/freenoff
 
 <!---
 Maruf-dev/Maruf-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
