@@ -6,7 +6,6 @@
 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.py`, `.tsx`
 - 🌍 I'm mostly active within the **React Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
 - 💬 `ping` me about **design**, **branding**, **React**, **development**, **design thinking**
 - 📫 How to reach me https://t.me/freenoff
 - 🌱 I’m currently learning Blockchain
